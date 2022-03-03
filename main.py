@@ -1,6 +1,7 @@
 """
 Latest Earthquake Detection Application
 modularization with functions
+modularization with package
 """
 from earthquake_detection import data_extraction, show_data
 
