@@ -1,6 +1,7 @@
 """
 Latest Earthquake Detection Application
 modularization with functions
+d
 """
 
 
